@@ -6,6 +6,5 @@
 
 
 
-![image](https://github.com/asd3200asd/homework/blob/master/000.png)
 
 
