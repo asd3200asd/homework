@@ -5,7 +5,7 @@ gan:asd.ipynb
 
 訓練200次
 
-![image](https://github.com/asd3200asd/homework/blob/master/000.png )
+![image](https://github.com/asd3200asd/homework/blob/master/00000.png )
 ![image](https://github.com/asd3200asd/homework/blob/master/200.png)
 
 
