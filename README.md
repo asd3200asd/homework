@@ -2,6 +2,7 @@ https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%
 
 
 gan:asd.ipynb
+
 訓練200次
 
 ![image](https://github.com/asd3200asd/homework/blob/master/200.png)
